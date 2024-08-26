@@ -9,6 +9,7 @@ import ru.gb.android.marketsample.layered.features.products.presentation.Product
 import ru.gb.android.marketsample.layered.features.promo.presentation.PromoVOMapper
 import ru.gb.android.marketsample.layered.features.promo.presentation.PromoViewModel
 
+
 class ProductsViewModelFactory(
     private val consumeProductsUseCase: ConsumeProductsUseCase,
     private val productVOFactory: ProductVOFactory,

@@ -1,7 +1,7 @@
 package ru.gb.android.marketsample
 
 import android.app.Application
-import ru.gb.android.marketsample.start.ServiceLocator as StartServiceLocator
+import ru.gb.android.marketsample.start.common.ServiceLocator as StartServiceLocator
 import ru.gb.android.marketsample.layered.ServiceLocator as LayeredServiceLocator
 import ru.gb.android.marketsample.clean.ServiceLocator as CleanServiceLocator
 

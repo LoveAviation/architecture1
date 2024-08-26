@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".start.StartActivity" android:exported="true"/>
+        <activity android:name=".start.common.StartActivity" android:exported="true"/>
         <activity android:name=".clean.CleanActivity" android:exported="true"/>
         <activity android:name=".layered.LayeredActivity" android:exported="true"/>
     </application>

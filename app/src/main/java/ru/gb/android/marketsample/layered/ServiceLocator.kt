@@ -11,6 +11,7 @@ import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
+import ru.gb.android.marketsample.clean.ProductsViewModelFactory
 import ru.gb.android.marketsample.layered.common.promo.data.PromoApiService
 import ru.gb.android.marketsample.layered.common.promo.data.PromoDataMapper
 import ru.gb.android.marketsample.layered.common.promo.data.PromoLocalDataSource

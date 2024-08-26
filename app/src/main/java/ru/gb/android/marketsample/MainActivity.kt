@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import ru.gb.android.marketsample.clean.CleanActivity
 import ru.gb.android.marketsample.databinding.ActivityMainBinding
 import ru.gb.android.marketsample.layered.LayeredActivity
-import ru.gb.android.marketsample.start.StartActivity
+import ru.gb.android.marketsample.start.common.StartActivity
 
 class MainActivity : AppCompatActivity() {
 
